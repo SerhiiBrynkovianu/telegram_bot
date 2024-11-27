@@ -1,0 +1,13 @@
+1. Open "group.txt" and fill in your group username
+2. Open "pin.txt" and fill in the pin link
+3. Open "phones.txt" and fill in your phone numbers
+4. Open folder "images" to put any pictures (.png, jpg, .gif) you want to send, and rename them to the # message you want to send with
+4. Open "messages.txt" and fill in your messages
+	[1] 	-> delay 1 second
+	{1} 	-> pick the 1st user to send message
+	(1) 	-> reply to the 1st message
+	<pin> 	-> reply to the pin message
+5. Open cmd and paste this command: "pip install telethon==1.21.1"
+6. "python main.py"
+
+In case of error: Open folder logs and pick the newest log file which has the most recent time in its name and send it back to me.

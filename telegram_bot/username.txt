@@ -1,0 +1,3 @@
+bot_username = @res1211_bot
+bot_token = 8080614888:AAHz9wQ1kgNxz_FxeBqTom46hjGTfXpZxE4
+Admin Acc = 6888517225

@@ -1,0 +1,12 @@
+ Attention all Cielo users
+
+To handle the surging growth of users, we launched an alt version of the free Telegram bot to handle demand.
+
+It's easy:
+
+Step 1: Go to https://t.me/CieloFinance_bot
+Step 2: After any command you'll see the prompt above. Click the "Yes" button.
+
+You'll now be on a new bot with more capacity. 
+
+Please respond with an 👍 reaction to this post once you have switched over. [6](10)

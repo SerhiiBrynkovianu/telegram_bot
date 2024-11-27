@@ -1,0 +1,4 @@
+pygubu~=0.21
+Telethon~=1.24.0
+pwinput~=1.0.2
+emoji~=1.7.0
